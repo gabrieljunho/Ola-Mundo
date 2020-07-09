@@ -1,4 +1,4 @@
 # Olá Mundo!
- Repositoriodo curso de GitHub
+ Repositorio do curso de GitHub
 
-Repositorio criado comum video.
+Repositorio criado com um video.
